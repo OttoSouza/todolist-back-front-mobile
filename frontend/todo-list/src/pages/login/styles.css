@@ -1,0 +1,28 @@
+.login-container {
+    display: flex;
+    height: 100vh;
+    margin: 0 auto;
+    align-items: center;
+
+}
+
+.login-button {
+    float: right;
+    margin-bottom: 15px;
+}
+
+.login-jumbotorn h1 {
+    color: #64a88c;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.login-jumbotorn p {
+    font-size: 1.2rem;
+    text-align: justify;
+}
+
+.login-jumbotorn button {
+    float: right;
+}

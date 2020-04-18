@@ -1,0 +1,16 @@
+.tarefas-container {
+    display: flex;
+    min-height: 100vh;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.think {
+    height: 300px;
+
+}
+
+.tarefas-form {
+    width: 350px;
+}
